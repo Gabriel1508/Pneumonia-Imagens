@@ -1,0 +1,3 @@
+ As pastas e arquivos csv do link abaixo devem estar neste diretório. Além disto, voce terá de criar duas novas pastas: treino_jpeg e teste_jpeg
+
+https://www.kaggle.com/c/rsna-pneumonia-detection-challenge/data

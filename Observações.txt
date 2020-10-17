@@ -1,0 +1,1 @@
+ Como o Github aceita uploads no máximo de 25mb, não pude manter os arquivos de texto como as matrizes das imagens salvas. Caso você execute o código, terá de esperar até que todas as imagens sejam convertidas e então salvas.
